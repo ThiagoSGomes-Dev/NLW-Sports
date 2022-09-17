@@ -27,8 +27,19 @@ header img {
     border-radius: 50%;
 }
 
+header h3 {
+    text-align: center;
+    margin: 20px 20px;
+}
+
+header h3 {
+    letter-spacing: 0.47px;
+    color: #FFFFFF;
+}
+
 header {
     margin-top: 32px;
+    margin-bottom: calc(50px + 20px);
     height: 120px;
 }
 
@@ -117,7 +128,11 @@ section ul li:hover {
 /* animation */
 
 header div {
-    animation: fromTop .7s 0.5s backwards;
+    animation: fromTop .7s .1s backwards;
+}
+
+header h3 {
+    animation: fromTop .7s .3s backwards;
 }
 
 main section {

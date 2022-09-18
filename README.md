@@ -12,8 +12,8 @@
 
 ## :wrench: tech
 
-- :white_check_mark: [HTML 5] - Semantic best practices.
-- :white_check_mark: [CSS 3] - Written with class that convey structural and fundamental meaning.
+- :white_check_mark: [HTML 5] - Semantics is handled by best practices.
+- :white_check_mark: [CSS 3] - Written with class that conveys structural and fundamental meaning.
 - :white_check_mark: [markdown-it] - Markdown done correctly. fast and easy.
 
 ## Development
@@ -33,7 +33,7 @@ Verify the deployment by navigating to your server address in
 your preferred browser.
 
 ```sh
-https://thiagosgomes-dev.github.io/nlw-sports/
+https://thiagosgomes-dev.github.io/nlw-eSports/
 ```
 
 ## :incoming_envelope: Contact

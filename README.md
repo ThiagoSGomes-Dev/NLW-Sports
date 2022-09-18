@@ -8,7 +8,7 @@
 
 > Project built from Rocketseat's Next Level Week event
 
-:link: <a href="https://thiagosgomes-dev.github.io/nlw-eSports/" target="_blank" >Click here to see the project.<a/>
+:link:<a href="https://thiagosgomes-dev.github.io/nlw-eSports/" target="_blank">Click here to see the project.<a/>
 
 ## :wrench: tech
 
